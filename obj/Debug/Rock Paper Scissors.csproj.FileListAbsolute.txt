@@ -1,0 +1,11 @@
+D:\Visual Studio\Visual Studio IDE\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.exe.config
+D:\Visual Studio\Visual Studio IDE\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.exe
+D:\Visual Studio\Visual Studio IDE\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.pdb
+D:\Visual Studio\Visual Studio IDE\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.csproj.AssemblyReference.cache
+D:\Visual Studio\Visual Studio IDE\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Visual Studio IDE\Rock Paper Scissors\obj\Debug\Rock_Paper_Scissors.Form1.resources
+D:\Visual Studio\Visual Studio IDE\Rock Paper Scissors\obj\Debug\Rock_Paper_Scissors.Properties.Resources.resources
+D:\Visual Studio\Visual Studio IDE\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.csproj.GenerateResource.cache
+D:\Visual Studio\Visual Studio IDE\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Visual Studio IDE\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.exe
+D:\Visual Studio\Visual Studio IDE\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.pdb
